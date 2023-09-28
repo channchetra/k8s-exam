@@ -1,0 +1,23 @@
+{
+  "name": "k8s-exam",
+  "version": "1.0.0",
+  "description": "Examination resource AUPP x IBM x AZU Cloud Computing 2023 std ID: cc025",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/channchetra/k8s-exam.git"
+  },
+  "author": "CHETRA Chann",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/channchetra/k8s-exam/issues"
+  },
+  "homepage": "https://github.com/channchetra/k8s-exam#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^7.5.3"
+  }
+}
